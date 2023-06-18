@@ -323,3 +323,15 @@ h6,
     width: 120px;
     height: 120px;
 }
+
+
+
+
+
+/* --------------------- About us Page Start ---------------------- */
+
+.card{
+    padding: 20px;
+    align-items: center;
+    background-color: #EEF9FF;
+}
